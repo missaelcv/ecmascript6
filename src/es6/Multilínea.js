@@ -35,3 +35,13 @@ var education = ['David',...team1,...team2];
 console.log(education);
 
 //Guardar el memoria
+{
+    var globalVar = "Global Var";
+}
+
+{
+    let globalLet = 'Global Let';
+    console.log(globalLet);
+}
+console.log(globalVar);
+
