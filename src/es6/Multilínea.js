@@ -45,3 +45,7 @@ console.log(education);
 }
 console.log(globalVar);
 
+//Manejar Asignacion 
+var a = 'b';
+a = 'a';
+console.log(a);
