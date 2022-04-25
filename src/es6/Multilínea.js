@@ -25,4 +25,13 @@ var { name, age, country } = persona;
 console.log( name, age, country);
 
 //Operador de propagacion 
+var team1 = ['missael', 'maria', 'maileny'];
 
+var team2 = ['missael', 'maria', 'maileny'];
+
+//Para unir elementos
+var education = ['David',...team1,...team2];
+
+console.log(education);
+
+//Guardar el memoria
