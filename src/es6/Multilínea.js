@@ -45,7 +45,7 @@ console.log(education);
 }
 console.log(globalVar);
 
-//Manejar Asignacion 
+C
 var a = 'b';
 a = 'a';
 console.log(a);
