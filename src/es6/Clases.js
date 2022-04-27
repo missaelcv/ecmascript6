@@ -14,5 +14,10 @@ class calculator {
         }
 }
         const calc = new calculator();
-
         console.log(calc.sum(2,2));
+
+        //Importando desde modules.js
+        import { hello } from './module';
+        
+        //LLamando la funcion
+        hello();
