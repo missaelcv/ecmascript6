@@ -1,4 +1,3 @@
-
 //Sin ECMA6
 let name = 'Missael';
 let age = 21;
