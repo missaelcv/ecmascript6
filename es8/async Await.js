@@ -14,3 +14,13 @@ const helloAsync = async () => {
     console.log(hello2);
 }
 helloAsync();
+
+const anotherFunction = async () => {
+    try{
+        const hello = await helloMundo();
+        console.log(hello);
+    } catch (error) {
+        console.log(error);
+    }
+}
+anotherFunction();
