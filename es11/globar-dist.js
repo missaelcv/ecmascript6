@@ -1,1 +1,0 @@
-//obtiendo varios elementos se obtiene un resultado 
