@@ -7,3 +7,4 @@ const anotherBigNumber = BigInt(9007199254740991)
 
 console.log(aBigNumer);
 console.log(anotherBigNumber);
+
